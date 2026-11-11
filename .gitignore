@@ -1,0 +1,15 @@
+# 作業系統檔案（macOS / Windows 產生的系統暫存）
+.DS_Store
+Thumbs.db
+
+# 編輯器檔案（VS Code / JetBrains 的專案設定目錄）
+.vscode/
+.idea/
+
+# 日誌與暫存檔
+*.log
+*.tmp
+
+# 依賴目錄
+node_modules/
+.venv/
